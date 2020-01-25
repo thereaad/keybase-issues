@@ -25,15 +25,4 @@ There's an [issues tab](https://github.com/keybase/keybase-issues/issues) on thi
 
 ### If you'd like to review our code
 
-We'd like that too.
-
-  * https://github.com/keybase/client - the client for all platforms
-
-#### Hall-of-fame Bugfinders
-
-  * [Michael Henriksen](https://twitter.com/michenriksen)
-  * [S. Venkatesh](https://twitter.com/pranavvenkats)
-  * [Leigh](https://keybase.io/lt)
-
-
-Thanks!
+We'd like t
